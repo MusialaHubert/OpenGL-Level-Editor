@@ -20,3 +20,7 @@ The **OpenGL-Level-Editor** provides:
 - skybox
 
 ## Screenshots
+Below are some images of an example scene made with this project.
+
+<img src="https://user-images.githubusercontent.com/69191839/209687602-24a67e4d-8bc0-4732-9b58-c15c7cd70b53.png" width="891" height="500">
+<img src="https://user-images.githubusercontent.com/69191839/209687614-ae26d716-3979-4096-999c-036fbacb1c69.png" width="891" height="500">
