@@ -1,5 +1,5 @@
 # OpenGL-Level-Editor
-The **OpenGL-Level-Editor** project is a C++ OpenGL project that provides an interface to create and edit 3D levels. 
+The **OpenGL-Level-Editor** project is a **C++ OpenGL** project that provides an interface to create and edit 3D levels. 
 It includes a few graphics and audio features, so it is possible to create simple games in it.
 
 You can watch a sample horror scene here: https://youtu.be/4UMESpg3qxk
